@@ -1,5 +1,4 @@
 import os
-from email.policy import default
 import pytest
 from selene.support.shared import browser
 from selenium import webdriver
